@@ -1,3 +1,3 @@
 document.body.innerHTML = '<h1>Hello from JavaScript</h1>'
 
-console.log('Test 1')
+console.log('Test 123456789')
